@@ -4,21 +4,21 @@ CNN Project [Udacity Deep Learning Nanodegree]
 # Project Overview:
 This repo contains all my work for Project 1 of Udacity's Neural Network Foundation Nanodegree Program. In this project, I have learned how to build a pipeline to process real-world, user-supplied images. Given an image of a dog, my algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed. Along with exploring state-of-the-art CNN models for classification, I have made important design decisions about the user experience for our app. By completing this lab, I understood the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline. Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.
 
-#Table_of_Contents#
+# Table_of_Contents:
 1.Libraries
 2.File Descriptions
 3.Content
 4.Results
 
-#Libraries_Files#
-Keras
-pandas
-OpenCV
-Matplotlib
-Numpy
-glob
+# Libraries_Files:
+* Keras
+* pandas
+* OpenCV
+* Matplotlib
+* Numpy
+* glob
 
-#File_descriptions
+# File_descriptions:
 dog_app.ipynb: Jupyter notebook containing the algorithm and process used to create it.
 dog_app.html: A copy of dog_app.ipynb in html format.
 Haarcascades folder: Xml file for use with the OpenCv face detector class.
@@ -36,7 +36,7 @@ Step 5: Create a CNN to Classify Dog Breeds (using Transfer Learning)
 Step 6: Write your Algorithm
 Step 7: Test Your Algorithm
 
-#Results:-
+# Results:
 1.The model achieved a test accuracy of 87.27% of the model and above the 60% established accuracy threshold.
 
 2.Some of the breeds have similar colors and shapes but differ in size,is the case between a Beagle and a Pointer or American Foxhound. Therefore the model needs to pick up subtle differences between similar breeds.
@@ -49,5 +49,5 @@ Step 7: Test Your Algorithm
 Project files can be found it Github repo: https://github.com/mozakkir2727/Dog-Breed-Classifier. 
 
 
-#Licensing, Authors, Acknowledgements
+# Licensing, Authors, Acknowledgements:
 Credits must be given to Udacity for  starter codes and data images useing by this project.
