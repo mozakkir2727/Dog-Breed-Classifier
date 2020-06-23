@@ -45,8 +45,7 @@ Step 7: Test Your Algorithm
 
 4.The model predicted the same two or three breeds when identifying an image as persion,Therefore more variety is needed concerning the type of breeds the model predicts in the  persion.
 
-
-Project files can be found it Github repo: https://github.com/mozakkir2727/Dog-Breed-Classifier. 
+ 
 
 
 # Licensing, Authors, Acknowledgements:
